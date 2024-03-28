@@ -11,7 +11,13 @@
 `git merge <branchName>` 
 
 ### Merge Conflicts: 
-Finalize your code and remove the headers and dividers 
+- When you get a merge conflict, take a deep breath 
+- Compare the changes in each file 
+    - Determine which changes you want to keep/not keep 
+    - '>>>>>>>>>' Current Branch (the branch you are currently in) 
+    - ========= 
+    - <<<<<<<<<<< INCOMING branch (the branch that is being merged in) 
+    - Finalize your code and remove the headers and dividers 
 
 ## Forking: 
 Use the "Fork" button in GitHub 
